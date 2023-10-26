@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae3a31a6.css",
+    "main.js": "/static/js/main.9c5c3313.js",
+    "static/js/872.3aaf06d9.chunk.js": "/static/js/872.3aaf06d9.chunk.js",
+    "static/js/227.cfc9747a.chunk.js": "/static/js/227.cfc9747a.chunk.js",
+    "static/js/526.90d3ef22.chunk.js": "/static/js/526.90d3ef22.chunk.js",
+    "static/js/232.e0a4d46d.chunk.js": "/static/js/232.e0a4d46d.chunk.js",
+    "static/js/237.9b442b43.chunk.js": "/static/js/237.9b442b43.chunk.js",
+    "static/media/anasoft.jpg": "/static/media/anasoft.612e7526f533bbedf1f8.jpg",
+    "static/media/t-logo.jpg": "/static/media/t-logo.569b8bcce6a60ba0dc51.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.749dbb9c705b6621fa58.pdf",
+    "static/media/panda-logo.jpg": "/static/media/panda-logo.7913b3bcc89a24f796e6.jpg",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.ae3a31a6.css.map": "/static/css/main.ae3a31a6.css.map",
+    "main.9c5c3313.js.map": "/static/js/main.9c5c3313.js.map",
+    "872.3aaf06d9.chunk.js.map": "/static/js/872.3aaf06d9.chunk.js.map",
+    "227.cfc9747a.chunk.js.map": "/static/js/227.cfc9747a.chunk.js.map",
+    "526.90d3ef22.chunk.js.map": "/static/js/526.90d3ef22.chunk.js.map",
+    "232.e0a4d46d.chunk.js.map": "/static/js/232.e0a4d46d.chunk.js.map",
+    "237.9b442b43.chunk.js.map": "/static/js/237.9b442b43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3a31a6.css",
+    "static/js/main.9c5c3313.js"
+  ]
+}
