@@ -69,7 +69,7 @@ const Intro = () => {
         <div style={{top:'18rem',left:'0rem'}}>
         <Floatingdiv img={thumbup} txt1="UX/UI" txt2="Designer" />
         </div> */}
-        <div className="blur" style={{background: "rgb(238, 210, 255)"}}>
+        {/* <div className="blur" style={{background: "rgb(238, 210, 255)"}}>
 
         <div
           className="blur"
@@ -82,7 +82,7 @@ const Intro = () => {
           }}
         ></div>
 
-        </div>
+        </div> */}
       </div>
    
   )
