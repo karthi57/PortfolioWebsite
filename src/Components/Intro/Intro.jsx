@@ -33,8 +33,8 @@ const Intro = () => {
         <span style={{ color: darkMode ? "white" : "" }}>Hello!,   I am </span>
            <span >Karthik</span>
           <span style={{ color: darkMode ? "white" : "" }}>
-          As a  Front-end Developer, I bring a fresh perspective, an eye for detail, and a passion for creating engaging digital experiences. I thrive on creativity, problem-solving, and collaborating to <bold>make user-centric designs come to life. </bold>
-           And what I might lack in skills I make up for with my determination to learn.</span>
+          As a  Front-end Developer, I bring a fresh perspective, an eye for detail, and a passion for creating engaging digital experiences. My strengths lie in leveraging creativity, analytical thinking, and cooperative problem-solving to actualize designs that align seamlessly with development goals. 
+           <bold>And what I might lack in skills I make up for with my determination to learn.</bold></span>
         </div>
         <Link to="contact" spy={true} smooth={true}>
            <button className="button intro-button"   
